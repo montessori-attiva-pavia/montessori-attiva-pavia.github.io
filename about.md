@@ -4,12 +4,4 @@ title: Chi siamo
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+*MontessoriAttiva – Pavia* è un gruppo di genitori, educatori e insegnanti che hanno maturato interesse per la scuola di metodo Montessori e, più in generale, per il pensiero pedagogico di Maria Montessori; che conoscono la convenzione tra il Ministero dell’Istruzione, dell’Università e della Ricerca (MIUR) e l’Opera Nazionale Montessori (ONM), in virtù della quale è possibile richiedere l’istituzione di una sezione o classe con il metodo di differenziazione didattica Montessori nelle scuole pubbliche e che ne richiedono l’avvio nelle scuole di Pavia e provincia, a vantaggio di una maggiore e diversificata scelta formativa.
