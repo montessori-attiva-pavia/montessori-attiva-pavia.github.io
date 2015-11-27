@@ -1,0 +1,26 @@
+
+footer.site-footer div.logo {
+  margin-bottom: 32px;
+}
+
+// https://www.google.com/fonts#UsePlace:use/Collection:Source+Sans+Pro
+
+// @import url(https://fonts.googleapis.com/css?family=Great+Vibes);
+// @import url(https://fonts.googleapis.com/css?family=Parisienne);
+// @import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Niconne);
+
+
+footer {
+  blockquote p {
+    font-style: normal;
+    font-weight: 300;
+    color: #999;
+    font-size: 16px;
+  }
+  blockquote footer {
+    font-family: 'Niconne', cursive;
+    color: rgb(231,0,0);
+    font-size: 24px;
+  }
+}

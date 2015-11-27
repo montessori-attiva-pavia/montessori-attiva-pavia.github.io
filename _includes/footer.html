@@ -1,17 +1,19 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
+  <div class="wrapper">    
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        <div class="logo">
+          <img src="/assets/img/logo02.png">
+        </div>
+
         <ul class="contact-list">
           <li>
             {% include icon-facebook.html groupname=site.facebook_groupname groupcode=site.facebook_groupcode %}
           </li>
-          <li><a href="mailto:{{ site.alt_email }}">{{ site.alt_email }}</a></li>
-        </ul>
+<!--           <li><a href="mailto:{{ site.alt_email }}">{{ site.alt_email }}</a></li>
+ -->        </ul>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -31,7 +33,11 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p><cite>"Se vi è per l’umanità una speranza di salvezza e di aiuto, questo aiuto non potrà venire che dal bambino, perché in lui si costruisce l’uomo"</cite> Maria Montessori</p>
+        <blockquote>
+          <p>"Se vi è per l’umanità una speranza di salvezza e di aiuto, questo aiuto non potrà venire che dal bambino, perché in lui si costruisce l’uomo"</p>
+          <footer>Maria Montessori</footer>
+        </blockquote>
+        
       </div>
     </div>
 
