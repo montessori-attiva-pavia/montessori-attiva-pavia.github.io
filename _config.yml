@@ -25,3 +25,5 @@ facebook_groupcode: 699317063437028
 # Build settings
 markdown: kramdown
 timezone: Europe/Rome
+
+exclude: [vendor]
