@@ -3,6 +3,22 @@ footer.site-footer div.logo {
   margin-bottom: 32px;
 }
 
+
+footer.site-footer {
+  a.fb-group {
+    color: #bbb;
+    font-size: 12px;
+
+    span.username {
+      vertical-align: -2px;
+    }
+  }
+  a.fb-group:hover {
+    color: #888;
+  }
+
+}
+
 // https://www.google.com/fonts#UsePlace:use/Collection:Source+Sans+Pro
 
 // @import url(https://fonts.googleapis.com/css?family=Great+Vibes);
@@ -17,8 +33,37 @@ footer {
     font-weight: 300;
     color: #999;
     font-size: 16px;
+    letter-spacing: 0.2px;
   }
   blockquote footer {
     width: 180px;
+  }
+
+
+  div.made-with {
+    margin-top: 10px;
+    color: #bbb;
+    font-size: 12px;
+    text-align: center;
+
+
+    // ul {
+    //   list-style-type: none;
+    //   padding: 0px;
+
+    //   li {
+    //     display: inline-block;
+    //     margin-left: 10px;
+    //     margin-right: 10px;
+    //   }
+    // }
+
+    a {
+      color: #bbb;
+      display: inline-block;    
+    }
+    a:hover {
+      color: #888;
+    }
   }
 }
