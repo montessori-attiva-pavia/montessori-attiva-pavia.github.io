@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   MontessoriAttiva – Pavia è un gruppo di genitori, educatori e insegnanti 
   che hanno maturato interesse per la scuola di metodo Montessori 
   e, più in generale, per il pensiero pedagogico di Maria Montessori.
-  Il loro obiettivo è questo: portare il Metodo nelle scuole del Pavese...
+  Il nostro obiettivo è questo: portare il Metodo nelle scuole del Pavese...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.montessoriattiva-pavia.it" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
