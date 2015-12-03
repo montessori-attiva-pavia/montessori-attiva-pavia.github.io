@@ -67,3 +67,15 @@ footer {
     }
   }
 }
+
+
+
+.image-wrapper {
+  margin-top: 50px;
+  text-align: center;
+
+  .image-caption {
+    color: $grey-color;
+    margin-top: $spacing-unit / 3;
+  }
+}
