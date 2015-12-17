@@ -9,6 +9,7 @@ Abbiamo consegnato alla Preside le firme per l'apertura di una sezione con metod
 
 
 Sabato 19 dicembre ci sarà l'Open Day. Parteciperanno anche la Preside e un'insegnante Montessori di una scuola di Varese che ci mostrerà qualche materiale.
+Le porte della scuola sita in via San Fedele 7 a Sommo rimarranno aperte delle 9:00 alle 13:30.
 
 Vi aspettiamo!
 A presto
