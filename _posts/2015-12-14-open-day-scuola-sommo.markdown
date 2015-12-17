@@ -14,6 +14,6 @@ Vi aspettiamo!
 A presto
 
 
-{% include image.html img="/assets/img/2015-12-17/image.jpeg" %}
+{% include image.html img="/assets/img/2015-12-17/image.jpeg" title="Informativa comune sommo" %}
 
-{% include image.html img="/assets/img/2015-12-17/image-2.jpeg" %}
+{% include image.html img="/assets/img/2015-12-17/image-2.jpeg" title="Locandina" %}
