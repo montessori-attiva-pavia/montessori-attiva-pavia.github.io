@@ -7,6 +7,7 @@ author: Iwan Buetti
 
 
 Per punti:
+
 - la scuola comunale "Benedetta Passerini" di Sommo non riusciva a raccogliere abbastanza adesioni per la prima elementare che sarebbe dovuta partire il settembre del 2016, sarebbe stato a rischio l'avvio di una nuova prima e in futuro il destino stesso della scuola;
 - il genitore di un alunno ha proposto ai dirigenti scolastici di adottare per la nuova prima il metodo Montessori;
 - il gruppo MontessoriAttiva di Pavia ha intrattenuto vari incontri con la Dirigente Scolastica e l'assessore che hanno accolto con entusiamo la proposta e ha organizzato la raccolta di richieste di iscrizioni. Servivano 15 adesioni: ne ha raccolte 19 che sono ora al vaglio della Dirigente Scolastica;
