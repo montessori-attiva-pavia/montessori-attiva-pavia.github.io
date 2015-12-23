@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Resoconto Open day scuola primaria di Sommo"
-date:  2015-12-22 10:00:00 +0100
+date:  2015-12-31 10:00:00 +0100
 author: Iwan Buetti
 ---
 
