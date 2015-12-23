@@ -17,21 +17,21 @@ Per punti:
 
 Di seguito qualche foto della mattinata (grazie a Nadia G.):
 
-{% include image.html img="/assets/img/2015-12-22/Photo_03.jpg" title="Presentazione" %}
+{% include image.html img="/assets/img/2015-12-22/photo_03.jpg" title="Presentazione" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_02.jpg" title="Presentazione" %}
+{% include image.html img="/assets/img/2015-12-22/photo_02.jpg" title="Presentazione" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_04.jpg" title="Presentazione" %}
+{% include image.html img="/assets/img/2015-12-22/photo_04.jpg" title="Presentazione" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_01.jpg" title="Materiale Montessori" %}
+{% include image.html img="/assets/img/2015-12-22/photo_01.jpg" title="Materiale Montessori" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_05.jpg" title="Materiale Montessori" %}
+{% include image.html img="/assets/img/2015-12-22/photo_05.jpg" title="Materiale Montessori" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_07.jpg" title="Materiale Montessori" %}
+{% include image.html img="/assets/img/2015-12-22/photo_07.jpg" title="Materiale Montessori" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_09.jpg" title="Materiale Montessori" %}
+{% include image.html img="/assets/img/2015-12-22/photo_09.jpg" title="Materiale Montessori" %}
 
-{% include image.html img="/assets/img/2015-12-22/Photo_10.jpg" title="Materiale Montessori" %}
+{% include image.html img="/assets/img/2015-12-22/photo_10.jpg" title="Materiale Montessori" %}
 
 
 
