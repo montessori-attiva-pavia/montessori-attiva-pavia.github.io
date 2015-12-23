@@ -37,6 +37,6 @@ Di seguito qualche foto della mattinata (grazie a Nadia G.):
 
 
 
-Infine l'articolo sull'avventura della scuola di Sommo uscito sulla Privincia Pavese:
+Infine l'articolo sull'avventura della scuola di Sommo uscito sulla Provincia Pavese:
 
 {% include image.html img="/assets/img/2015-12-22/articolo.jpg" title="Articolo Provincia Pavese" %}
