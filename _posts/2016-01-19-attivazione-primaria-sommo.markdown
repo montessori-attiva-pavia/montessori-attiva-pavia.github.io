@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Attivazione prima sezione montessori nella scuola statale di Pavia e provincia
-date:   2016-01-18 17:00:00 +0100
+date:   2016-01-19 11:00:00 +0100
 tags:   sommo "scuola primaria"
 author: Samanta Monai
 ---
