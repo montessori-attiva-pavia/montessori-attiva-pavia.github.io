@@ -17,8 +17,11 @@ permalink: /resources/
 
 [Associazione Montessori Scuola Pubblica](http://montessoriscuolapubblica.com){:target="_blank"}
 
+[Rete Montessori Milano](http://www.montessori-milano.it/una_rete_montessori.php){:target="_blank"}
 
-# Siti formativi e informativi
+[Associazione Montessori Brescia](http://www.montessoribs.it/){:target="_blank"}
+
+## Siti formativi e informativi
 [Sito di Mario Valle](http://www.mariovalle.name){:target="_blank"}
 
 
