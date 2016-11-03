@@ -10,6 +10,8 @@ Sabato 5 novembre alle 9:00 presso il collegio universitario Giasone del Maino, 
 
 L'ingresso è libero e gratuito.
 
+Aggiornamento: abbiamo il patrocinio di Opera Nazionale Montessori!
+
 
 {% include image.html img="/assets/img/2016-10-31/locandina_2016_11_05.jpg" title="locandina" caption="Locandina dell'evento" url="/assets/img/2016-10-31/locandina_2016_11_05.pdf" %}
 
