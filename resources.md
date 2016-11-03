@@ -18,7 +18,7 @@ permalink: /resources/
 ## Enti e associazioni
 [Opera Nazionale Montessori](http://www.operanazionalemontessori.it){:target="_blank"}
 
-[Associazione Montessori Scuola Pubblica](http://montessoriscuolapubblica.com){:target="_blank"}
+[Associazione Montessori Scuola Pubblica](https://montessoriscuolapubblica.com){:target="_blank"}
 
 [Rete Montessori Milano](http://www.montessori-milano.it/una_rete_montessori.php){:target="_blank"}
 
