@@ -1,0 +1,32 @@
+---
+layout: post
+title:  Open day Casa dei Bambini
+date:   2017-01-16 08:00:00 +0100
+tags:   'Casa dei Bambini'
+author: Samanta Monai
+---
+
+**Open day Casa dei Bambini a Sommo, progetto di educazione parentale Montessori, domenica 22 gennaio 2017 alle ore 15.**
+
+Durante l'incontro verranno presentati il progetto e l’approccio pedagogico Montessori, sarà possibile visitare gli spazi e fare la conoscenza delle maestre Gloria e Martina.
+
+La Casa dei Bambini è nata a settembre 2016 grazie alla volontá dei genitori e alla disponibilitá del Comune di Sommo e dell'Istituto Comprensivo A. Manzoni di Cava Manara (PV). 
+È situata al piano terra della scuola primaria B. Passerini di Sommo. Al piano superiore, dello stesso edificio, ha preso l'avvio a settembre 2016 una sezione a metodo di differenziazione didattica Montessori nella scuola pubblica, la prima in tutto il territorio pavese.
+
+La Casa dei Bambini **ospita i bambini dai 3 anni ai 5 compiuti**, ed è gestita da MontessoriAttiva - Pavia, associazione fondata per l'interesse di un gruppo di genitori di Pavia e Provincia alla scuola con metodo Montessori e al pensiero pedagogico di Maria Montessori.
+
+
+{% include image.html img="/assets/img/2017-01-16/Open-day-2017.jpg" title="locandina" caption="Locandina Open Day Casa dei Bambini a Sommo" url="/assets/img/2017-01-16/Open-day-2017.pdf" %}
+
+
+
+La Casa dei Bambini si propone come una **casa nella scuola**, un **ambiente di vita**, un **contesto di lavoro e di libertà**, esattamente come Maria Montessori ha indicato. Il presupposto indispensabile è quello della massima fiducia nell’interesse spontaneo del bambino, nel suo impulso naturale ad agire e conoscere.
+L’ambiente accoglie bambini di età eterogenea ed è adatto al lavoro individuale o di piccolo gruppo, come una casa, con spazi dove lavorare, pensare, immaginare con i propri tempi e ritmi interiori. L’ambiente è anche preparato nel senso della misura, con oggetti e arredi proporzionati all’età e al corpo dei bambini stessi, rivelatori dell’esattezza e dell’ordine, qualità che suggeriscono una disciplinata attività autonoma; ambiente accogliente e caldo, rassicurante e vissuto con un positivo senso di appartenenza. In questo ambiente i bambini possono muoversi liberamente anche senza il diretto controllo dell’adulto alle cui cure è affidata la Casa dei Bambini come luogo aperto alle scelte e al lavoro dei piccoli ‘abitanti’ (liberamente tratto da ‘Progetto Montessori 3-11’ dal sito www.operanazionalemontessori.it).
+
+Sono aperte le iscrizioni per l'anno 2017-2018 alla Casa dei Bambini. Maggiori informazioni [scrivete qui](mailto:info@montessoriattiva-pavia.it)
+
+
+Vi aspettiamo domenica!
+
+
+
