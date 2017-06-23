@@ -16,6 +16,8 @@ permalink: /resources/
 
 
 ## Enti e associazioni
+[Atto costitutivo e statuto](/assets/pdf/attocostitutivo_e_statuto_MAP.pdf){:target="_blank"} di MontessoriAttiva - Pavia
+
 [Opera Nazionale Montessori](http://www.operanazionalemontessori.it){:target="_blank"}
 
 [Associazione Montessori Scuola Pubblica](https://montessoriscuolapubblica.com){:target="_blank"}
