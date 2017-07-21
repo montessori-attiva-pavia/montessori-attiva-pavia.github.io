@@ -20,8 +20,8 @@ url: "http://www.montessoriattiva-pavia.it" # the base hostname & protocol for y
 # twitter_username: jekyllrb
 # github_username:  jekyll
 # facebook_groupname: MontessoriAttiva - Pavia
-facebook_groupname: Gruppo Facebook
-facebook_groupcode: 699317063437028
+facebook_groupname: Pagina Facebook
+facebook_pagename: MontessoriAttivaPavia
 
 # Build settings
 markdown: kramdown
