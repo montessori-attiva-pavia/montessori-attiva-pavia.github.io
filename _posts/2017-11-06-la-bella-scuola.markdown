@@ -6,7 +6,7 @@ tags:   pavia bellezza 'festival dei diritti'
 author: Daniela Rapa
 ---
 
-Nell'ambito del [Festival dei Diritti] 2017 (http://www.festivaldeidiritti.org/){:target="_blank"}, promosso dal Centro servizi volontariato di Pavia e dedicato in questa edizione al tema della bellezza, l'associazione MontessoriAttiva - Pavia vi invita all'incontro “La bella scuola” con Paola Collina, maestra e formatrice Montessoriana.
+Nell'ambito del [Festival dei Diritti 2017](http://www.festivaldeidiritti.org/){:target="_blank"}, promosso dal Centro servizi volontariato di Pavia e dedicato in questa edizione al tema della bellezza, l'associazione MontessoriAttiva - Pavia vi invita all'incontro “La bella scuola” con Paola Collina, maestra e formatrice Montessoriana.
 
 Vi aspettiamo per questo appuntamento sabato 11 novembre alle ore 10,30 presso la sala conferenze Broletto, in via Paratici 21, nel centro di Pavia.
 
