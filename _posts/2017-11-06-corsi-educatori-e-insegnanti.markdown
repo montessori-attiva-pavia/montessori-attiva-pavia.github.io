@@ -6,9 +6,9 @@ tags:   corsi onm pavia educatori insegnanti
 author: Samanta Monai
 ---
 
-L'associazione MontessoriAttiva - Pavia sta raccogliendo le adesioni per i **corsi di differenziazione didattica dell'Opera nazionale Montessori a Pavia**.
+L'associazione MontessoriAttiva - Pavia sta raccogliendo le adesioni per i **corsi di differenziazione didattica dell'Opera Nazionale Montessori a Pavia**.
 
-L’Opera nazionale Montessori (ONM), è Ente morale con personalità giuridica, accreditato per la Formazione Montessori dal Ministero dell’Istruzione, dell’università e della ricerca (MIUR), titolare di Convenzione con il MIUR e di Certificazione di Qualità UNI EN ISO 9001/2008 per la formazione superiore e continua di seminari, di corsi di specializzazione e di aggiornamento nel metodo Montessori per educatori e insegnanti.
+L’Opera Nazionale Montessori (ONM), è Ente morale con personalità giuridica, accreditato per la Formazione Montessori dal Ministero dell’Istruzione, dell’università e della ricerca (MIUR), titolare di Convenzione con il MIUR e di Certificazione di Qualità UNI EN ISO 9001/2008 per la formazione superiore e continua di seminari, di corsi di specializzazione e di aggiornamento nel metodo Montessori per educatori e insegnanti.
 
 I corsi per i docenti saranno vigilati dall'USR Lombardia, Ufficio scolastico regionale del MIUR. Per il pagamento sarà possibile utilizzare la Carta del docente.
 
