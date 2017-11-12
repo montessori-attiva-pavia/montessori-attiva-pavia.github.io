@@ -4,6 +4,10 @@ layout: default
 
 <div class="home">
 
+  {% include support_us_button.html %}
+
+  <div style="clear: both;"></div>
+  
   {% include unsplash_pict.html %}
 
   <h1 class="page-heading">In evidenza</h1>
@@ -25,7 +29,7 @@ layout: default
 
 
 
-  <h1 class="page-heading">Eventi e articoli</h1>
+  <h1 class="page-heading">Articoli</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}

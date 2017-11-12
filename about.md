@@ -3,6 +3,7 @@ layout: page
 title: Chi siamo
 permalink: /about/
 url_convenz: assets/convenzione-miur-onm-2013.pdf
+keep_in_menu: true
 ---
 
 **MontessoriAttiva - Pavia** è un’associazione che nasce da un gruppo di genitori desiderosi di diffondere il pensiero e la pedagogia montessoriana e di promuoverne l’inserimento all’interno della scuola pubblica del territorio di Pavia e dintorni.

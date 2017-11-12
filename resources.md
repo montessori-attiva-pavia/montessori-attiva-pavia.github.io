@@ -2,6 +2,7 @@
 layout: page
 title: Risorse
 permalink: /resources/
+keep_in_menu: true
 ---
 
 ## Articoli
