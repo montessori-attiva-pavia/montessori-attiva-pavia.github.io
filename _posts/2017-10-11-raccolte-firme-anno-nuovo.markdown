@@ -4,6 +4,7 @@ title:  "Raccolta firme per attivazione nuova classe prima della scuola primaria
 date:   2017-10-11 08:00:00 +01:00
 tags:   firme primaria
 author: Samanta Monai
+pinned: true
 ---
 
 È iniziata la raccolta delle firme per richiedere l’attivazione della nuova classe prima a metodo di differenziazione didattica Montessori nella scuola primaria B. Passerini di Sommo (PV) per l’anno scolastico 2018/19 (procedura necessaria da ripetersi ogni anno per l'avvio di una nuova prima).

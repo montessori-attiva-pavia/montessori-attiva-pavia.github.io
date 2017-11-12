@@ -126,6 +126,64 @@ footer {
   }
 }
 
+.r-ma-10 {
+  margin-right: 10px;
+}
+
+.home {
+  h1.page-heading {
+    font-size: 24px;
+    color: #333;
+    font-weight: 500;
+    border-bottom: 1px solid #ccc;
+  }
+
+
+  a.post-link {
+    font-size: 20px;
+    font-weight: 100;
+    color: #999;
+
+    &:hover {
+      color: #555;
+      text-decoration: none;
+    }
+
+  }
+  li.bau {
+    background-color: #f7d7e0;
+    padding: 10px 20px;
+    border: 1px solid #f4c1c8;
+    border-radius: 5px;
+
+    &:hover {
+      background-color: #f4c1c8;
+    }
+  }
+
+
+  a.post-link.pinned {
+    color: #cd0d04;
+
+    &:hover {
+      color: #a30a03;
+    }
+
+  }
+
+  span.post-meta {
+    color: #bbb;
+  }
+}
+
+
+// horizontal line
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
 
 h1.notice {
   color: #d50816;

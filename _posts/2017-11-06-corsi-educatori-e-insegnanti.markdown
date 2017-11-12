@@ -4,6 +4,7 @@ title:  Corsi per educatori e insegnanti - Opera Nazionale Montessori
 date:   2017-11-06 08:00:00 +01:00
 tags:   corsi onm pavia educatori insegnanti
 author: Samanta Monai
+pinned: true
 ---
 
 L'associazione MontessoriAttiva - Pavia sta raccogliendo le adesioni per i **corsi di differenziazione didattica dell'Opera Nazionale Montessori a Pavia**.
