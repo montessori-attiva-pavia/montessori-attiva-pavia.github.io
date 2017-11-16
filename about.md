@@ -13,17 +13,5 @@ Per tali motivi l’associazione desidera seguire le linee guida dell’[Opera N
 Nel corso degli ultimi anni si è creata in proposito una sinergia tra il Comune di Sommo (Pv), l’Istituto comprensivo A. Manzoni di Cava Manara (Pv) e l’associazione MontessoriAttiva - Pavia. La collaborazione ha condotto dapprima all’attivazione, nell’anno scolastico 2016/2017, della sezione a metodo di differenziazione didattica Montessori - riconosciuta dall’Opera nazionale omonima – all’interno della Scuola primaria B. Passerini di Sommo (Pv). E, in seguito, nel settembre 2016, alla nascita del progetto di educazione parentale Montessori [Casa dei Bambini Pavese](http://www.casadeibambinipavese.it/){:target="_blank"}, per bimbi dai 3 ai 6 anni, gestito dalla stessa associazione. A settembre 2017 è stata infine avviata un’ulteriore nuova prima classe nello stesso plesso scolastico. 
 
 
-
-Se vuoi aiutarci puoi farlo in tanti modi:
-
-* **facendo una donazione**: la nostra associazione è una Associazione di Promozione Sociale. Causale: Erogazione liberale, IBAN: IT10 X083 8611 3000 0000 0373, intestato a: MontessoriAttiva-Pavia
-
-* **associandoti** all’associazione MontessoriAttiva-Pavia: l’iscrizione ha costo annuo di 12 euro e permette di ricevere le nostre newsletter, partecipare alle nostre riunioni dei soci, avere riduzioni sull'ingresso ai nostri eventi e ricevere sconti presso attività convenzionate. 
-Per iscriversi bisogna [inviare una email](mailto:comunicazioni@montessoriattiva-pavia.it) con il modulo di adesione compilato e firmato.     
-La quota può essere pagata in contanti (ad esempio durante i nostri eventi) o tramite bonifico     Causale: *Nome e Cognome* quota socio ordinario, IBAN: IT10 X083 8611 3000 0000 0373, intestato a: MontessoriAttiva-Pavia     
-
-* diventando socio volontario: puoi anche aiutarci in modo concreto nello svolgimento delle nostre attività: se sei disponibile, segnalalo nell'email di iscrizione, indicando cosa saresti disponibile a fare (ad esempio raccolta fondi, organizzazione eventi, ecc) e quando (ad esempio la sera o nei weekend, durante le vacanze scolastiche o solo per alcune settimane, ecc.)
-
-
-{% include pdf_link.html caption="Modulo di richiesta adesione all'Associazione" url="/assets/pdf/richiesta-adesione-map.pdf" %}
+{% include support_us_button.html %}
 
