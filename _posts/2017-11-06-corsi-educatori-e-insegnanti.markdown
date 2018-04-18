@@ -7,21 +7,18 @@ author: Samanta Monai
 pinned: true
 ---
 
-L'associazione MontessoriAttiva - Pavia sta raccogliendo le adesioni per i **corsi di differenziazione didattica dell'Opera Nazionale Montessori a Pavia**.
 
-L’Opera Nazionale Montessori (ONM), è Ente morale con personalità giuridica, accreditato per la Formazione Montessori dal Ministero dell’Istruzione, dell’università e della ricerca (MIUR), titolare di Convenzione con il MIUR e di Certificazione di Qualità UNI EN ISO 9001/2008 per la formazione superiore e continua di seminari, di corsi di specializzazione e di aggiornamento nel metodo Montessori per educatori e insegnanti.
+L’associazione MontessoriAttiva - Pavia sta raccogliendo le adesioni per riuscire a chiedere l'attivazione dei **corsi di differenziazione didattica dell’Opera Nazionale Montessori anche a Pavia**.  
 
-I corsi per i docenti saranno vigilati dall'USR Lombardia, Ufficio scolastico regionale del MIUR. Per il pagamento sarà possibile utilizzare la Carta del docente.
+L’Opera Nazionale Montessori (ONM), è Ente morale con personalità giuridica, accreditato per la Formazione Montessori dal Ministero dell’Istruzione, dell’università e della ricerca (MIUR), titolare di Convenzione con il MIUR e di Certificazione di Qualità UNI EN ISO 9001/2008 per la formazione superiore e continua di seminari, di corsi di specializzazione e di aggiornamento nel metodo Montessori per educatori e insegnanti. I corsi per i docenti sono vigilati dall’USR Lombardia, Ufficio scolastico regionale del MIUR. Per il pagamento é possibile utilizzare la Carta del docente.  I corsi solitamente si svolgono nei fine settimana: tendenzialmente il sabato tutta la giornata e le mattinate della domenica, a week-end alternati.
+Per l’avvio dei corsi è necessario il raggiungimento di un numero minimo di iscrizioni: è questo il motivo per cui a Pavia i corsi non sono ancora 'decollati'.
 
-L'inizio delle lezioni potrebbe avvenire già entro il mese di marzo 2018. I corsi si terranno nei fine settimana: con ogni probabilità il sabato tutta la giornata e le mattinate di domenica, a week-end alternati e con l’aggiunta di due settimane intensive tra giugno e luglio.
+Il modulo allegato va compilato e inviato a [info@montessoriattiva-pavia.it](mailto:info@montessoriattiva-pavia.it).
 
-Per l'avvio dei corsi è necessario il raggiungimento di un numero minimo di iscrizioni: stiamo quindi raccogliendo le adesioni (non vincolanti) e chiediamo la massima collaborazione per la divulgazione, affinché il maggior numero possibile di insegnanti ed educatori interessati possa essere informato.
+Per informazioni è possibile scrivere agli indirizzi indicati o contattare telefonicamente Samanta al numero 347/0601428 o Daniela al numero 347/8456747.
 
-Il modulo allegato va compilato e inviato a [info@montessoriattiva-pavia.it](mailto:info@montessoriattiva-pavia.it). 
+Si chiede la massima collaborazione per la divulgazione, affinché il maggior numero possibile di insegnanti ed educatori interessati possa essere informato. 
 
-Va ricordato, infine, che formare nel nostro stesso territorio educatori e insegnanti competenti e motivati faciliterebbe l'avvio di esperienze analoghe a quelle di Sommo anche nella città di Pavia e nella sua provincia, a vantaggio di un sempre maggior numero di bambini e di famiglie, che avrebbero così una scuola maggiormente rispettosa dei loro tempi, della loro individualità e del loro processo unico di sviluppo.
-
-Per informazioni è possibile scrivere agli indirizzi indicati o contattare telefonicamente Samanta al numero 347/0601428 e Daniela al numero 347/8456747.
 
 
 {% include image.html img="/assets/img/2017-11-06/ModuloPreadesioneCorsiPavia.jpg" title="Modulo preadesione Corsi educatori ed insegnanti a Pavia" url="/assets/img/2017-11-06/ModuloPreadesioneCorsiPavia.pdf" %}
