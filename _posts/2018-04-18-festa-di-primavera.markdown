@@ -20,3 +20,11 @@ La lotteria si è svolta grazie alla partecipazione di tanti. Ringraziamo Decath
 Un grazie speciale alle maestre della Casa dei Bambini per le attività con i bambini.
 
 Il ricavato sarà utilizzato a sostegno del progetto Montessori di Sommo.
+
+
+{% include image.html img="/assets/img/2018-04-18/IMG_1765.jpg" title="festa_primavera_1" %}
+
+{% include image.html img="/assets/img/2018-04-18/IMG_1766.jpg" title="festa_primavera_2" %}
+
+{% include image.html img="/assets/img/2018-04-18/IMG_1776.jpg" title="festa_primavera_3" %}
+
