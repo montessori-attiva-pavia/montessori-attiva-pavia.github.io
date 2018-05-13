@@ -4,7 +4,7 @@ title:  Festa di Primavera
 date:   2018-04-18 08:00:00 +0100
 tags:   incontro
 author: Samanta Monai
-pinned: true
+pinned: false
 ---
 
 
@@ -15,11 +15,11 @@ Venerdì 13 aprile si è svolta la Festa di Primavera, organizzata dall’Associ
 
 Le maestre Martina, Gloria ed Erica hanno guidato i laboratori e giocato con i più piccoli, mentre i più grandi hanno tirato qualche calcio al pallone in giardino. I bambini hanno anche estratto i biglietti per l’assegnazione dei premi e si sono divertiti a scoprire se avevano vinto.
 
- 
+
 
 Sindaca e Vicesindaco sono passati per i saluti; anche le maestre Elisa, Roberta e Chiara, ci hanno raggiunto appena hanno potuto.
 
- 
+
 
 La lotteria si è svolta grazie ad un’ampia partecipazione.
 
@@ -43,4 +43,3 @@ Grazie a tutti!
 {% include image.html img="/assets/img/2018-04-18/IMG_1766.jpg" title="festa_primavera_2" %}
 
 {% include image.html img="/assets/img/2018-04-18/IMG_1776.jpg" title="festa_primavera_3" %}
-
