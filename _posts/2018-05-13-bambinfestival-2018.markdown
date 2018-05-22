@@ -4,7 +4,7 @@ title:  "La scuola nell'infanzia, frammenti di un viaggio"
 date:   2018-05-13 08:00:00 +01:00
 tags:   bambinfestival documentario
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 Nell'ambito dell'edizione 2018 di [BambInFestival](http://www.bambinfestival.org){:target="_blank"}, il festival pavese dedicato ai bambini, proponiamo nel tardo pomeriggio di sabato 19 maggio la proiezione del documentario di Gaia Giani:
