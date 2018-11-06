@@ -4,7 +4,7 @@ title:  La scuola Montessori, la didattica differenziata a misura di bambino
 date:   2018-05-21 08:00:00 +01:00
 tags:   alagna 'scuola montessori'
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 Martedì sera **Martina Cartasegna** ci illustrerà i principi del metodo e la loro applicazione, ovvero come il lavoro libero può agevolare e incentivare l'autostima, la libertà di scelta, l'interesse e la curiosità di ogni bambino.
@@ -16,4 +16,4 @@ Siete tutti invitati - insegnanti, educatori, genitori interessati e appassionat
 L'evento è gratuito.
 
 
-{% include image.html img="/assets/img/2018-05-21/locandina.jpg" title="locandina" caption="Locandina 'La scuola Montassori'" url="/assets/img/2018-05-21/locandina.pdf" %}
+{% include image.html img="/assets/img/2018-05-21/locandina.jpg" title="locandina" caption="Locandina 'La scuola Montessori'" url="/assets/img/2018-05-21/locandina.pdf" %}
