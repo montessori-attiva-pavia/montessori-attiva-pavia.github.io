@@ -8,7 +8,7 @@ pinned: true
 ---
 È iniziata la raccolta delle firme per richiedere l’attivazione della nuova classe prima a metodo di differenziazione didattica Montessori nella scuola primaria B. Passerini di Sommo (PV) per l’anno scolastico 2019/20 (procedura necessaria da ripetersi ogni anno per l’avvio di una nuova prima).
 
-Il foglio informativo della scuola è disponibile [qui](http://www.montessoriattiva-pavia.it/assets/img/2017-10-11/foglio_informativo_scuola_2017.pdf){:target="_blank"}.
+Il foglio informativo della scuola è disponibile [qui](/assets/img/2018-11-05/foglio_informativo.pdf){:target="_blank"}.
 
 Per formalizzare la disponibilità d’iscrizione del/la figlio/a alla classe Montessori presso questa scuola, chiediamo a tutte le famiglie interessate d’inviare subito il modulo in calce all’indirizzo e-mail: info@montessoriattiva-pavia.it
 
