@@ -4,7 +4,7 @@ title:  Open day della scuola primaria di Sommo
 date:   2018-11-07 08:00:00 +01:00
 tags:   openday primaria sommo
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 Sabato 15 dicembre 2018, dalle ore 10 alle 11, si apriranno le porte della scuola primaria B. Passerini di Sommo. Genitori e interessati avranno la possibilità di visitare gli spazi della scuola e incontrare i responsabili del plesso [qui trovate la circolare](https://www.ic-cavamanara.gov.it/circ-107-open-day-iscrizioni-scuola-primaria-a-s-2019-2020/){:target="_blank"}.

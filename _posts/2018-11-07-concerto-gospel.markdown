@@ -4,7 +4,7 @@ title:  "Christmas Reloaded: concerto gospel <br/> con 'LV Gospel Project'"
 date:   2018-11-07 08:00:00 +01:00
 tags:   concerto natale gospel beneficenza
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 La nostra associazione, con il supporto dei genitori e la disponibilità della Parrocchia di San Lanfranco, organizza l'evento **Christmas Reloaded**, uno spettacolo Gospel per Natale.

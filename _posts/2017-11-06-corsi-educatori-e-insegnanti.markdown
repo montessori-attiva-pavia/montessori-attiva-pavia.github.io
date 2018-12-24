@@ -4,7 +4,7 @@ title:  Corsi per educatori e insegnanti - Opera Nazionale Montessori
 date:   2017-11-06 08:00:00 +01:00
 tags:   corsi onm pavia educatori insegnanti
 author: Samanta Monai
-pinned: true
+pinned: false
 ---
 
 
@@ -17,11 +17,8 @@ Il modulo allegato va compilato e inviato a [info@montessoriattiva-pavia.it](mai
 
 Per informazioni è possibile scrivere agli indirizzi indicati o contattare telefonicamente Samanta al numero 347/0601428 o Daniela al numero 347/8456747.
 
-Si chiede la massima collaborazione per la divulgazione, affinché il maggior numero possibile di insegnanti ed educatori interessati possa essere informato. 
+Si chiede la massima collaborazione per la divulgazione, affinché il maggior numero possibile di insegnanti ed educatori interessati possa essere informato.
 
 
 
 {% include image.html img="/assets/img/2017-11-06/ModuloPreadesioneCorsiPavia.jpg" title="Modulo preadesione Corsi educatori ed insegnanti a Pavia" url="/assets/img/2017-11-06/ModuloPreadesioneCorsiPavia.pdf" %}
-
-
-
