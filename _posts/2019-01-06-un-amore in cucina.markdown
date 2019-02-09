@@ -4,7 +4,7 @@ title:  A teatro per "Un amore in cucina"
 date:   2019-01-06 08:00:00 +01:00
 tags:   teatro favola cucina beneficenza
 author: Margherita Simonetta
-pinned: true
+pinned: false
 ---
 
 Domenica 20 gennaio 2019 alle ore 16, presso il teatro Mastroianni, via Piemonte n 8, San Martino Siccomario, la compagnia teatrale In Scena Veritas rappresentata da Manuela Malaga e Maria Rita Minchiotti, metterà in scena una favola speciale per bambini e famiglie sul tema della cucina, del cibo, e della felicità: "Un amore di cucina", regia di Maria Elisa Calderoni.
