@@ -19,3 +19,5 @@ La partecipazione è gratuita.
 Per info scrivere a: [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
 
 Vi aspettiamo!
+
+{% include image.html img="/assets/img/2019-02-09/carnevall_2019.jpg" title="modulo" caption="Locandina dell'evento" url="/assets/img/2019-02-09/carnevall_2019.pdf" %}
