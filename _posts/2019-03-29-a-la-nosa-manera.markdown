@@ -4,7 +4,7 @@ title:  Spettacolo dialettale<br /> "C'era una volta... a la nosa manera"
 date:   2019-03-29 08:00:00 +0100
 tags:   laboratorio carnevale
 author: Margherita Simonetta
-pinned: true
+pinned: false
 ---
 
 Per tutti i cultori del dialetto e non solo, ecco un appuntamento da non perdere! La Compagnia del Patatrac in  “C'ERA UNA VOLTA......... A LA NOSA MANERA”.
