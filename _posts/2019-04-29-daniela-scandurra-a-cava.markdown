@@ -16,8 +16,7 @@ Ne parlerà con noi Daniela Scandurra, pedagogista Montessoriana e autrice del l
 
 L'appuntamento è presso la Sala Teatro in Piazza Vittorio Emanuele II a Cava Manara (PV) venerdì 10 maggio alle ore 21.
 
-
-L'accesso è gratuito ma vi invitiamo caldamente a manifestare la vostra adesione scrivendo a [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
+L'accesso è gratuito con iscrizione abbligatoria: [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
 
 
 Per informazioni e prenotazioni scrivere a [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
