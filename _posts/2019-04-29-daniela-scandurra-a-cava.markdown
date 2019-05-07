@@ -7,18 +7,15 @@ author: Margherita Simonetta
 pinned: true
 ---
 
-Siamo lieti di invitare genitori, nonni, educatori, insegnanti, tate e interessati all'incontro serale a tema **Montessori in famiglia**.
+Il metodo Montessori può essere un valido supporto anche a casa e in famiglia? Come? Perché?
 
-Ne parlerà con noi Daniela Scandurra, pedagogista Montessoriana e autrice del libro "Un'altra educazione è possibile. La risposta montessoriana ai bisogni dei bambini".
+Ne parlerà con noi Daniela Scandurra, pedagogista Montessoriana e autrice del libro "Un’altra educazione è possibile. La risposta montessoriana ai bisogni dei bambini".
 
-{% include image.html img="/assets/img/2019-04-29/libro.jpg" title="Un'altra educazione è possibile" caption="Copertina del libro di D. Scandurra" %}
+L'incontro 'Montessori in famiglia' si terrà venerdì 10 maggio alle ore 21.00 presso la Sala Teatro sita in via Vittorio Emanuele II messa gentilmente a disposizione dal Comune di Cava Manara (PV) che patrocina l'evento.
 
+Ringraziamo anche FAIS srl ed Emergenza Tate Pavia per il prezioso contributo.
 
-L'appuntamento è presso la Sala Teatro in Piazza Vittorio Emanuele II a Cava Manara (PV) venerdì 10 maggio alle ore 21.
+Ingresso gratuito, prenotazione obbligatoria scrivendo a [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
 
-L'accesso è gratuito con iscrizione obbligatoria: [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
-
-
-Per informazioni e prenotazioni scrivere a [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
 
 {% include image.html img="/assets/img/2019-04-29/Evento_con_daniela_scandurra.jpg" title="locandina" caption="Locandina dell'evento" %}
