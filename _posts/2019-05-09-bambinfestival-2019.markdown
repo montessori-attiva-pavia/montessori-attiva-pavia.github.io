@@ -15,6 +15,6 @@ Vi diamo dunque appuntamento domenica 19 maggio a partire dalle ore 15 fino le 1
 
 Per info: [montessoriamoinsieme@gmail.com](mailto:montessoriamoinsieme@gmail.com)
 
-In sentito ringraziamento a ACLI Pavia che ci ha offerto lo spazio.
+Un sentito ringraziamento a ACLI Pavia che ha gentilmente offerto lo spazio.
 
 {% include image.html img="/assets/img/2019-05-09/bambinfestival_2019_map.jpg" title="locandina" caption="Locandina" url="/assets/img/2019-05-09/bambinfestival_2019_map.pdf" %}
