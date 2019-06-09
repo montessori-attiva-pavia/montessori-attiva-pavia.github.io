@@ -4,7 +4,7 @@ title:  "MONTESSORIamo insieme al BambInFestival?"
 date:   2019-05-09 08:00:00 +01:00
 tags:   bambinfestival laboratorio
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 Nell'ambito dell'edizione 2019 di [BambInFestival](http://www.bambinfestival.org){:target="_blank"}, il festival pavese dedicato ai bambini, allestiremo uno spazio con dieci postazioni in cui bambini e bambine tra i 3 e i 6 anni potranno sperimentare le attività e il materiale scientifico della Casa dei Bambini di Sommo.

@@ -4,7 +4,7 @@ title:  Montessori in famiglia
 date:   2019-04-29 08:00:00 +0100
 tags:   incontro
 author: Margherita Simonetta
-pinned: true
+pinned: false
 ---
 
 Il metodo Montessori può essere un valido supporto anche a casa e in famiglia? Come? Perché?
