@@ -25,7 +25,7 @@ Piazzale Salvo D'Acquisto 1 a Pavia
 
 
 
-L'evento avrà inizio alle ore 21 precise, si raccomanda pertanto di arrivare in anticipo.
+L'evento avrà inizio alle ore 21 precise.
 
 
 
