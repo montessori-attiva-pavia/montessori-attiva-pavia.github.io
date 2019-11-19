@@ -17,7 +17,7 @@ Si desidera fornire spunti per una riflessione sulla difficoltà dell’essere g
 Introduce l’incontro il giornalista Daniele Rizzuto.
 
 
-Incontro organizzato da Associazione Amici dell’IC di Corso Cavour, MontessoriAttiva-Pavia, Associazione Genitori per la scuola di Torre d’Isola, in collaborazione con AGEN, AGEMA Associazione genitori Maria Ausiliatrice e ALDIA nell’ambito del progetto Fare #BeneComune.
+Incontro organizzato da Associazione Amici dell’IC di Corso Cavour, Associazione MontessoriAttiva-Pavia, Associazione Genitori per la scuola di Torre d’Isola, in collaborazione con AGEN, AGEMA Associazione genitori Maria Ausiliatrice e ALDIA nell’ambito del progetto Fare #BeneComune.
 
 Ci vediamo martedì 26 novembre,
 presso il Teatro Cesare Volta,
