@@ -20,7 +20,7 @@ Gli incontri, patrocinati dall'Opera Nazionale Montessori e dal comune di Pavia,
 - 22 novembre con **Mario Valle**, ingegnere presso il Centro Svizzero di Calcolo Scientifico a Lugano. La sua passione per il metodo Montessori l'ha portato ad approfondirne gli aspetti scientifici
 - 29 novembre con **Carlo Alberti**, formatore di 'Percorsi per Crescere' e dei CEMEA ticinesi. Supervisore con G. Honegger Fresco nella scuola di Varese, docenti nei corsi 0-3 dell'Opera Nazionale Montessori
 
-Gl incontri, gratuiti e aperti a tutti, si terranno a Pavia presso la Sala Conferenze Broletto, in piazza della Vittoria dalle ore 20,30.
+Gli incontri, gratuiti e aperti a tutti, si terranno a Pavia presso la Sala Conferenze Broletto, in piazza della Vittoria dalle ore 20,30.
 È gradita la prenotazione scrivendo a [insiemepermontessoriattiva@gmail.com](mailto:insiemepermontessoriattiva@gmail.com)
 
 

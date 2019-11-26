@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Genitori e figli
+title:  "Daniele Novara: Genitori e figli"
 subtitle: Organizzati e felici per un futuro da vivere insieme
 date:   2019-11-18 08:00:00 +01:00
 tags:   incontro
