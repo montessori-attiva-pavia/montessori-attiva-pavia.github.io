@@ -5,7 +5,7 @@ subtitle: Una sfida per genitori ed educatori del III millennio
 date:   2019-11-13 08:00:00 +01:00
 tags:   corso
 author: Margherita Simonetta
-pinned: true
+pinned: false
 ---
 
 Anche quest'anno MontessoriAttiva - Pavia partecipa al Festival dei Diritti!
