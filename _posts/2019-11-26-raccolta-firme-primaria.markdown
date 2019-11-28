@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Raccolta firme per attivazione nuova classe prima della scuola primaria per anno scolastico 2010/21
+title:  Raccolta firme per attivazione nuova classe prima della scuola primaria per anno scolastico 2020/21
 date:   2019-11-26 08:00:00 +01:00
 tags:   scuola primaria sommo
 author: Samanta Monai

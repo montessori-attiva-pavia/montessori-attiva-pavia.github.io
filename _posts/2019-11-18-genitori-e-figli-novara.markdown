@@ -5,7 +5,7 @@ subtitle: Organizzati e felici per un futuro da vivere insieme
 date:   2019-11-18 08:00:00 +01:00
 tags:   incontro
 author: Margherita Simonetta
-pinned: true
+pinned: false
 ---
 
 Sempre nell'ambito del Festival dei diritti, oltre all'incontro sui 'Nativi-digitali' (ne abbiamo parlato [qui](/2019/11/13/nativi-digitali.html)), abbiamo co-organizzato un incontro con Daniele Novara sul tema
