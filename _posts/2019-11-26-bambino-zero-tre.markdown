@@ -4,7 +4,7 @@ title:  Il bambino da zero a tre anni
 date:   2019-11-26 08:00:00 +01:00
 tags:   corso
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 Quinto e ultimo appuntamento per il ciclo di incontri denominato "Il bambino in famiglia".
