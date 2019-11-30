@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Proiezione de 'Il bambino è il maestro' a San Martino Siccomario
-date:   2019-11-26 08:00:00 +01:00
+date:   2019-11-30 08:00:00 +01:00
 tags:   film metodo
 author: Margherita Simonetta
 pinned: true
