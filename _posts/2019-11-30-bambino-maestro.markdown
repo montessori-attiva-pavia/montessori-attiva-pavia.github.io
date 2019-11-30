@@ -9,7 +9,7 @@ pinned: true
 
 Dopo il ciclo di incontri de '[Il bambino in famiglia](/2019/09/25/il-bambino-in-famiglia.html)' ci vogliamo prendere una pausa con un film che va a "spiare" quello che succede dentro una Casa dei bambini.
 
-Venerdì 6 dicembre alle ore 20 presso il cinema Multisala Movie Planet di San Martino Siccomario sarà proiettato il film "Il Bambino è il maestro", il film sul metodo Montessori, diretto al regista francese Alexandre Mourot, che sta spopolando nelle sale cinematografiche di tutta Europa.
+Venerdì 6 dicembre alle ore 20 presso il cinema Multisala Movie Planet di San Martino Siccomario (Pavia) sarà proiettato il film "Il Bambino è il maestro", il film sul metodo Montessori, diretto al regista francese Alexandre Mourot, che sta spopolando nelle sale cinematografiche di tutta Europa.
 
 Il film è stato realizzato con 28 bambini dai 3 ai 6 anni presso la Casa dei Bambini 'Christian Maréchal de Roubaix', la più antica di Francia. Il regista, giovane papà, osserva una classe Montessori di piccoli dai 3 ai 6 anni. I bambini lavorano in un'atmosfera tranquilla, leggono, fanno il pane, le divisioni, ridono e dormono. Il maestro resta discreto. Per Maria Montessori, autonomia ed autostima sono le basi di una società libera e pacifica!
 
