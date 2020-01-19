@@ -4,7 +4,7 @@ title:  "'Il bambino è il maestro' del regista A. Mourot a Pavia"
 date:   2019-11-30 08:00:00 +01:00
 tags:   film metodo
 author: Samanta Monai
-pinned: true
+pinned: false
 ---
 
 Venerdì 6 dicembre alle ore 20 presso il cinema Multisala Movie Planet di San Martino Siccomario (Pavia)
