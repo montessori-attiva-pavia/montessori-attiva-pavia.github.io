@@ -9,7 +9,7 @@ pinned: true
 ---
 
 
-Dopo l'incontro del 26 novembre scorso, che ha riscosso un enorme successo, il pedagogista Daniele Novara torna a Pavia per parlarci di genitori, figli ed educazione con il tema
+Dopo l'incontro del 26 novembre scorso, serata che ha riscosso un enorme successo, il pedagogista Daniele Novara torna a Pavia per parlarci di genitori, figli ed educazione con il tema
 
 **La gestione dell'adolescente conflittuale, l'importanza dell'educazione**
 
