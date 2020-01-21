@@ -1,0 +1,29 @@
+---
+layout: post
+title:  Laboratori per bambini e adulti, Carnevale 2020
+date:   2020-01-21 08:00:00 +0100
+tags:   laboratorio carnevale
+author: Iwan
+pinned: true
+---
+
+Il tema del [CarnevAll](https://www.facebook.com/CarnevAll-1434275636790071/) pavese di quest'anno è
+
+PIANTAMOLA!
+
+"Liberissimo e provocatorio, scelto perché 2020 è l’anno internazionale della salute delle piante mentre vanno in fumo continenti di foreste e i nostri polmoni. Perché 2020 è l’anno rodariano (nasceva 100 anni fa Gianni Rodari) mentre va in fumo non solo la fantasia ma anche il futuro dei bambini e delle bambine.
+Piantiamola vuol dire smetterla ma anche dare inizio: ci piace pensare a una foresta varia e vivente che si mette in cammino adesso verso altre economie ed organizzazioni, verso altre fiabe e avventure. Comunque ognuno desidera piantarla con qualcosa e seminare qualcos'altro: l’importante è che si abbia voglia di dirlo agli altri, festeggiando per strada i beni comuni, che siano l’aria, l’acqua, gli spazi pubblici o la pace in libertà.
+L’appuntamento è per la parata il **22 febbraio**: luogo e orario verranno diffusi a breve." (dalla pagina Facebook di [CarnevAll](https://www.facebook.com/CarnevAll-1434275636790071/))
+
+MontessoriAttiva parteciperà alla parata festiva con un carro rappresentativo che verrà preparato e allestito da chiunque, genitori e bambini, voglia collaborare.
+
+
+I laboratori di preparazione si svolgeranno  domenica 2 e 9 febbraio alle ore 15 presso l'Oratorio di Sommo (i genitori sono invitati a rimanere e partecipare ;-)
+
+La partecipazione è ovviamente gratuita.
+
+Per info chiamate Margherita (tel.3463167540) o Lorenza (tel.3471661460).
+
+Vi aspettiamo!
+
+{% include image.html img="/assets/img/2020-01-21/carnevall_2020.jpg" title="modulo" caption="Locandina dell'evento" %}
