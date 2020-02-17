@@ -5,7 +5,7 @@ subtitle: L'importanza dell'educazione, incontro con Daniele Novara
 date:   2020-01-20 08:00:00 +01:00
 tags:   incontro
 author: Iwan Buetti
-pinned: true
+pinned: false
 ---
 
 
