@@ -105,7 +105,7 @@ footer {
 
     a {
       color: #bbb;
-      display: inline-block;    
+      display: inline-block;
     }
     a:hover {
       color: #888;
@@ -237,4 +237,10 @@ a.support-us-button {
 em.important {
   font-style: normal;
   color: red;
+}
+
+
+.bq-important {
+  color: red;
+  letter-spacing: 0.5px;
 }
