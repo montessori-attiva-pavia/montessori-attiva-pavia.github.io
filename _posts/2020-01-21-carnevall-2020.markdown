@@ -4,7 +4,7 @@ title:  Laboratori per bambini e adulti, Carnevale 2020
 date:   2020-01-21 08:00:00 +0100
 tags:   laboratorio carnevale
 author: Iwan
-pinned: true
+pinned: false
 ---
 
 Il tema del [CarnevAll](https://www.facebook.com/CarnevAll-1434275636790071/) pavese di quest'anno è
