@@ -14,11 +14,11 @@ Grazie mille!!!
 
 
 In ordine sparso:
-- Colorificio Arcobelo di Saviotti Massimiliano di Sannazzaro De' Burgondi (PV)
+- *Colorificio Arcobelo* di Saviotti Massimiliano di Sannazzaro De' Burgondi (PV)
 - [Di Donato S.p.A](https://didonatospa.it/) di San Giovanni Teatino (CH)
-- Pasticceria Gelateria La Maison di Cava Manara
+- Pasticceria Gelateria *La Maison di* Cava Manara (PV)
 - [Flavio Bacci](https://it.linkedin.com/in/flavio-bacci-b0519225), Progettista e Formatore
-- Falegnami Bruni Fratelli Di Bruni Luigi & C. Snc di Cava Manara (PV)
+- Falegnami *Bruni Fratelli* Di Bruni Luigi & C. Snc di Cava Manara (PV)
 - [FAIS SRL](https://www.fais.it/) di Pavia (PV)
 - [Cooperativa Sociale Rosa dei Venti](http://www.rosadeiventi.info/) di Stradella (PV)
 - [Associazione giovanile sumAsum](http://www.sumasum.it/) di Sommo (PV)
