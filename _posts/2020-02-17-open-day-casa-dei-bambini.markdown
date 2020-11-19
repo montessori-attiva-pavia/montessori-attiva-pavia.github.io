@@ -4,7 +4,7 @@ title:  Open day 2020 della Casa dei Bambini <u>ANNULLATO</u>
 date:   2020-02-17 08:00:00 +0100
 tags:   openday 'Casa dei Bambini'
 author: Samanta Monai
-pinned: true
+pinned: false
 ---
 
 > A causa delle restrizioni a carattere preventivo dovute alla diffusione del coronavirus l'Open Day è stato <u>annullato</u>.
