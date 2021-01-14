@@ -4,7 +4,7 @@ title:  Raccolta firme per attivazione di una nuova classe prima della scuola pr
 date:   2020-11-19 20:00:00 +01:00
 tags:   scuola primaria sommo raccolta-firme
 author: Samanta Monai
-pinned: true
+pinned: false
 ---
 
 Cari genitori,
