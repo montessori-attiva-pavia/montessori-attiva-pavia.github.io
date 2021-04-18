@@ -7,7 +7,7 @@ author: Samanta Monai
 pinned: false
 ---
 
-La [Casa dei Bambini](http://www.casadeibambinipavese.it) anche quest'anno apre le porte ai genitori interessati alla pedagogia montessoriana per l’educazione dei propri figli.
+La [Casa dei Bambini](/cdb) anche quest'anno apre le porte ai genitori interessati alla pedagogia montessoriana per l’educazione dei propri figli.
 
 Le educatrici illustreranno i principi fondamentali del metodo e descriveranno come si svolge una giornata alla Casa dei Bambini, mostrandone ambiente, materiale scientifico, e attività.
 

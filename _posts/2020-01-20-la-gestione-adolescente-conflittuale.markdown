@@ -6,6 +6,7 @@ date:   2020-01-20 08:00:00 +01:00
 tags:   incontro
 author: Iwan Buetti
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 

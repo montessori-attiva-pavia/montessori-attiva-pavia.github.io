@@ -6,6 +6,7 @@ date:   2019-11-13 08:00:00 +01:00
 tags:   corso
 author: Margherita Simonetta
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 Anche quest'anno MontessoriAttiva - Pavia partecipa al Festival dei Diritti!

@@ -6,6 +6,7 @@ date:   2019-09-25 08:00:00 +01:00
 tags:   corso
 author: Samanta Monai
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 Rivolto a genitori, nonni, tate, educatori, insegnanti, appassionati.

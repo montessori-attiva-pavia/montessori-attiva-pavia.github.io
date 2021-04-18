@@ -5,6 +5,7 @@ date:   2021-01-14 12:00:00 +01:00
 tags:   corso onm insegnamento borsa
 author: Samanta Monai
 pinned: true
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 A supporto dell’organico già presente nella scuola primaria a metodo di differenziazione didattica Montessori di Sommo (Pavia) e in vista dell'attivazione di una nuova classe prima, l’associazione MontessoriAttivaPavia - APS, in collaborazione con il Comune di Sommo (PV), **offre due borse di studio a copertura parziale del corso di differenziazione didattica Montessori fascia età 6-11 in partenza a Brescia.**

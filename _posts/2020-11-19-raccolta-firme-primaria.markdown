@@ -5,6 +5,7 @@ date:   2020-11-19 20:00:00 +01:00
 tags:   scuola primaria sommo raccolta-firme
 author: Samanta Monai
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 Cari genitori,

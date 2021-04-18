@@ -1,14 +1,12 @@
 <!-- _includes/image.html -->
-<div class="image-wrapper" >
-    
-    {% if include.url %}
-    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-    {% endif %}
-        <img src="{{ include.img }}" alt="{{ include.title }}"/>
-    {% if include.url %}
-    </a>
-    {% endif %}
-    {% if include.caption %}
-        <p class="image-caption">{{ include.caption }}</p>
-    {% endif %}
-</div>
+{% if include.url %}
+  <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    <img class="img-fluid" src="{{ include.img }}" alt="{{ include.title }}"/>
+  </a>   
+{% else %}
+  <img class="img-fluid" src="{{ include.img }}" alt="{{ include.title }}"/>
+{% endif %}
+
+{% if include.caption %}
+  <span class="caption text-muted">{{ include.caption }}</span>
+{% endif %}

@@ -1,30 +1,32 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-
-title: MontessoriAttiva - Pavia
-email: montessoriattivapavia@gmail.com
-alt_email: montessoriattivapavia[at]gmail.com
+title:              MontessoriAttiva - Pavia
+email:              montessoriattivapavia@gmail.com
+alt_email:          montessoriattivapavia[at]gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   MontessoriAttiva – Pavia è un gruppo di genitori, educatori e insegnanti 
   che hanno maturato interesse per la scuola di metodo Montessori 
   e, più in generale, per il pensiero pedagogico di Maria Montessori.
-  Il nostro obiettivo è questo: portare il Metodo nelle scuole del Pavese...
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.montessoriattiva-pavia.it" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
-# facebook_groupname: MontessoriAttiva - Pavia
-facebook_groupname: Pagina Facebook
-facebook_pagename: MontessoriAttivaPavia
+  Il nostro obiettivo è questo: portare il Metodo nelle scuole del Pavese
+author:             MontessoriAttiva - Pavia
+baseurl:            ""
+url:                "https://www.montessoriattiva-pavia.it"
+
+# Social Profiles
+# twitter_username:   SBootstrap
+# github_username:    montessori-attiva-pavia
+facebook_username:  MontessoriAttivaPavia
+instagram_username: casadeibambinipavese
+linkedin_username:
+
+default_post_bg_img: "/img/chris-lawton-5IHz5WhosQE-unsplash.jpg"
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-70835338-1 # out your google-analytics code
 
 # Build settings
-markdown: kramdown
-timezone: Europe/Rome
-
-exclude: [vendor]
+markdown:           kramdown
+paginate:           10
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site

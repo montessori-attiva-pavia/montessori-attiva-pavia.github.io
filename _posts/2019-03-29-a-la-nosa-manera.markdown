@@ -5,6 +5,7 @@ date:   2019-03-29 08:00:00 +0100
 tags:   laboratorio carnevale
 author: Margherita Simonetta
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 Per tutti i cultori del dialetto e non solo, ecco un appuntamento da non perdere! La Compagnia del Patatrac in  “C'ERA UNA VOLTA......... A LA NOSA MANERA”.

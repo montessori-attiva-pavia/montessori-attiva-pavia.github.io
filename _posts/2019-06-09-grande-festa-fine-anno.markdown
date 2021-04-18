@@ -5,6 +5,7 @@ date:   2019-06-09 08:00:00 +01:00
 tags:   primaria casadeibambini sommo merenda
 author: Iwan Buetti
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 Sarà per merito della giornata soleggiata, della dolce brezza che accarezzava le fronde degli alberi, della Caccia al Tesoro che ha appassionato bambini di ogni età, delle scacchiere e dei giochi vintage in legno che hanno intrattenuto grandi e piccoli, sarà per merito delle torte, dei biscotti e del gustoso gelato, del clima rilassato che aleggiava... fatto sta che sabato abbiamo trascorso uno stupendo pomeriggio all’insegna della condivisione e del divertimento...

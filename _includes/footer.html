@@ -1,62 +1,92 @@
-<footer class="site-footer">
+<!-- Footer -->
 
-  <div class="wrapper">    
+<hr>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <div class="logo">
-          <img src="/assets/img/logo02.png" alt="Group logo">
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <div class="row">
+          <div class="col-6">
+            <div class="logo mb-5">
+              <img src="/assets/img/logo02.png" alt="Group logo">
+            </div>
+            <ul class="list-inline text-left" style="font-size: 0.8em;">
+              {% if site.email %}
+              <li class="list-inline-item">
+                <a href="mailto:{{ site.email | encode_email }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.twitter_username %}
+              <li class="list-inline-item">
+                <a href="https://twitter.com/{{ site.twitter_username }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.facebook_username %}
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.linkedin_username %}
+              <li class="list-inline-item">
+                <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.github_username %}
+              <li class="list-inline-item">
+                <a href="https://github.com/{{ site.github_username }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+              {% if site.instagram_username %}
+              <li class="list-inline-item">
+                <a href="https://instagram.com/{{ site.instagram_username }}">
+                  <span class="fa-stack fa-lg">
+                    <i class="fas fa-circle fa-stack-2x"></i>
+                    <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
+
+          <div class="col-6 text-right">
+            <blockquote class="blockquote">
+              <p class="my-0">"Se vi è per l’umanità una speranza di salvezza e di aiuto, questo aiuto non potrà venire che dal bambino, perché in lui si costruisce l’uomo"</p>
+              <footer class="blockquote-footer">
+                <img src="/assets/img/mm_signature.gif" alt="Maria Montessori signature">
+              </footer>  
+            </blockquote>
+          </div>
         </div>
 
-        <ul class="contact-list">
-          <li>
-            {% include facebook-page-link.html groupname=site.facebook_groupname pagename=site.facebook_pagename %}
-          </li>
-          <li>
-            <a href="http://www.casadeibambinipavese.it/" class="fb-group" target="_blank">Casa dei Bambini a Sommo</a>
-          </li>
-        </ul>
+        <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <blockquote>
-          <p>"Se vi è per l’umanità una speranza di salvezza e di aiuto, questo aiuto non potrà venire che dal bambino, perché in lui si costruisce l’uomo"</p>
-          <footer>
-            <img src="/assets/img/mm_signature.gif" alt="Maria Montessori signature">
-          </footer>  
-        </blockquote>
-        
-      </div>
-    </div>
-
-  </div>
-
-  <div class="wrapper">
-    <div class="privacy-policy">
-      {% include privacy_policy.html %}
-    </div>
-  </div>
-
-  <div class="wrapper">
-    <div class="made-with">
-      {% include made-with-jekyll.html %}
     </div>
   </div>
 </footer>
-

@@ -5,6 +5,7 @@ date:   2019-11-30 08:00:00 +01:00
 tags:   film metodo
 author: Samanta Monai
 pinned: false
+background: '/img/chris-lawton-5IHz5WhosQE-unsplash.jpg'
 ---
 
 Venerdì 6 dicembre alle ore 20 presso il cinema Multisala Movie Planet di San Martino Siccomario (Pavia)

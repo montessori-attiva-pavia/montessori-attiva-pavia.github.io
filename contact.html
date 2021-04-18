@@ -1,0 +1,43 @@
+---
+layout: page
+title: Contattaci
+background: '/img/davide-baraldi-BKFflYZYjoA-unsplash_2.jpg'
+form: true
+---
+
+<p>Hai delle domande? Vuoi contattarci? Compila il form qua sotto per inviarci un messaggio e verrai contattato/a al più presto!</p>
+<form name="sentMessage" id="contactFormX" novalidate action="https://formspree.io/{{ site.email }}" method="POST">
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Il tuo nome</label>
+      <input type="text" class="form-control" placeholder="Nome" id="name" name="name" required data-validation-required-message="Inserisci il tuo nome qui.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Indirizzo e-mail</label>
+      <input type="email" class="form-control" placeholder="Indirizzo e-mail" name="email" id="email" required data-validation-required-message="Inserisci il tuo indirizzo e-mail qui.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="form-group col-xs-12 floating-label-form-group controls">
+      <label>Il tuo numero di telefono</label>
+      <input type="tel" class="form-control" placeholder="Numero di telefono" name="phone" id="phone" required data-validation-required-message="Inserisci il tuo numero di telefono qui.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Messaggio</label>
+      <textarea rows="5" class="form-control" placeholder="Messaggio" id="message" name="message" required data-validation-required-message="Inserisci il tuo messaggio qui."></textarea>
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
+  <br>
+  <div id="success"></div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary" id="sendMessageButton">Invia</button>
+  </div>
+</form>
