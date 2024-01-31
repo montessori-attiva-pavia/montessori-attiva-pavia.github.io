@@ -3,6 +3,7 @@ source "https://rubygems.org"
 ruby "2.7.8"
 
 gem "jekyll", ">= 3.8.5"
+gem "rubygems-update", "~> 3.1.6"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
