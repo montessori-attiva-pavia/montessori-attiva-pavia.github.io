@@ -4,7 +4,7 @@ ruby "2.7.8"
 
 gem "jekyll", ">= 3.8.5"
 # gem "rubygems-update", "~> 3.1.6"
-gem "sass-embedded", "1.54.6"
+gem "sass-embedded", "1.54.6" # importante! Sennò il build su github fallisce
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
